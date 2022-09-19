@@ -30,7 +30,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  wechat_camera_picker: ^3.5.0+1
+  wechat_camera_picker: ^3.6.0
   #弹框提醒
   fluttertoast: ^8.0.9
 
